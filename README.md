@@ -1,1 +1,1 @@
-## Pirmais laboratorijas darbs priekšmetā "Vizuālā programmēšana (studiju projekts)"
+### Pirmais laboratorijas darbs priekšmetā "Vizuālā programmēšana (studiju projekts)"
