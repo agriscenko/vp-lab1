@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <Name>Anna</Name>
+    <Surname>Kalņina</Surname>
+    <Id>000RDB001</Id>
+    <Group>1</Group>
+    <Email>anna.kalnina_1@edu.rtu.lv</Email>
+  </Student>
+  <Student>
+    <Name>Jānis</Name>
+    <Surname>Bērziņš</Surname>
+    <Id>000RDB002</Id>
+    <Group>1</Group>
+    <Email>janis.berzins_3@edu.rtu.lv</Email>
+  </Student>
+  <Student>
+    <Name>Kristīne</Name>
+    <Surname>Zvaigzne</Surname>
+    <Id>000RDB003</Id>
+    <Group>2</Group>
+    <Email>kristine.zvaigzne_1@edu.rtu.lv</Email>
+  </Student>
+</ArrayOfStudent>
